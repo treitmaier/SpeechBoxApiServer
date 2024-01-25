@@ -13,7 +13,7 @@ jib = "3.3.1"
 mysql = "8.0.33"
 logback = "1.4.7"
 inline-logger = "1.0.5"
-twilio = "9.5.0"
+twilio = "9.16.0"
 
 [libraries]
 hikari = { module = "com.zaxxer:HikariCP", version.ref="hikari" }
